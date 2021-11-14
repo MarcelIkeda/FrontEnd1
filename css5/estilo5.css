@@ -1,0 +1,68 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Mohave', sans-serif;
+    text-align: center;
+    
+
+}
+
+body {
+    background-image: url('_imagens/noite2.jpg');
+    background-repeat: no-repeat;
+    background-size: 150%;
+    height: 1400;
+}    
+
+.cabecalho {
+    height: 20px;
+}
+
+.titulo {
+    background-color: black;
+    color: #f5e1e1;
+    font-size: 35px;
+    width: 100%;
+    
+}
+
+.separcao {
+    padding: 30px;
+    text-align: left;
+
+}
+
+.parte1 {
+    padding: 10px;
+    margin-top: 20px;
+    color: #f5e1e1;
+    text-shadow: 2px 2px 2px black; 
+}
+
+.video {
+
+    padding: 30px;
+    margin-top: 90px;
+}
+
+
+.subtitulo {
+    font-size: 20px;
+    bottom: 10px;
+    color: #f5e1e1;
+    font-weight: bold;
+    text-shadow: 2px 2px 2px black;
+}
+
+.midia {
+    padding: 50px;
+}
+
+.vetor{
+    size: 20px;
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    border-radius: 50%;
+   
+}
